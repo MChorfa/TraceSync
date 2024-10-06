@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+build/
+
+# Internal utilities with sensitive information
+internal/utils/utils.go
