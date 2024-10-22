@@ -1,5 +1,9 @@
 # TraceSync
 
+## DISCLAIMER ❗❗❗
+
+<span style="color:red;">❗ This project is a fictional example created for educational purposes. It does not represent a real company or product. ❗</span>
+
 ## Overview
 
 TraceSync is a CLI tool for managing and synchronizing artifacts, tracking metadata, and ensuring compliance across CI/CD pipelines. 
